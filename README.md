@@ -41,3 +41,11 @@ O objetivo é criar uma experiência moderna, responsiva e interativa para usuá
 │── script.js 
 
 │── README.md 
+
+## 📈 Visual do Site
+Exemplo de visualização do Site:  
+
+![Site](https://github.com/jessica-re88/Stand-de-Automveis/blob/main/img/Stande%20de%20autom%C3%B3vel1.png)
+![Site](https://github.com/jessica-re88/Stand-de-Automveis/blob/main/img/Stande%20de%20autom%C3%B3vel2.png)
+
+---
